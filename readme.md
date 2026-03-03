@@ -8,7 +8,7 @@
 
 ⭐ **Star us on GitHub! Your support means the world to us!** 🙏😊
 
-[Why this repo?](#Why This Repo?) · [Skill Sources](#Skill Sources) · [Categories](#Scientific Skill Categories) · [Quick Start](#Quick Start) · [Contributing](#Contributing)
+[Why this repo?](#why-this-repo) · [Skill Sources](#skill-sources) · [Categories](#scientific-skill-categories) · [Quick Start](#quick-start) · [Contributing](#contributing)
 
 </div>
 

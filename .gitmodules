@@ -1,0 +1,60 @@
+[submodule "skills/anthropics-skills"]
+	path = skills/anthropics-skills
+	url = https://github.com/anthropics/skills.git
+[submodule "skills/openai-skills"]
+	path = skills/openai-skills
+	url = https://github.com/openai/skills.git
+[submodule "skills/huggingface-skills"]
+	path = skills/huggingface-skills
+	url = https://github.com/huggingface/skills.git
+[submodule "skills/openclaw-clawhub"]
+	path = skills/openclaw-clawhub
+	url = https://github.com/openclaw/clawhub.git
+[submodule "skills/VoltAgent-awesome-openclaw-skills"]
+	path = skills/VoltAgent-awesome-openclaw-skills
+	url = https://github.com/VoltAgent/awesome-openclaw-skills.git
+[submodule "skills/travisvn-awesome-claude-skills"]
+	path = skills/travisvn-awesome-claude-skills
+	url = https://github.com/travisvn/awesome-claude-skills.git
+[submodule "skills/ComposioHQ-awesome-claude-skills"]
+	path = skills/ComposioHQ-awesome-claude-skills
+	url = https://github.com/ComposioHQ/awesome-claude-skills.git
+[submodule "skills/heilcheng-awesome-agent-skills"]
+	path = skills/heilcheng-awesome-agent-skills
+	url = https://github.com/heilcheng/awesome-agent-skills.git
+[submodule "skills/obra-superpowers"]
+	path = skills/obra-superpowers
+	url = https://github.com/obra/superpowers.git
+[submodule "skills/vercel-labs-agent-skills"]
+	path = skills/vercel-labs-agent-skills
+	url = https://github.com/vercel-labs/agent-skills.git
+[submodule "skills/nextlevelbuilder-ui-ux-pro-max-skill"]
+	path = skills/nextlevelbuilder-ui-ux-pro-max-skill
+	url = https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
+[submodule "skills/K-Dense-AI-claude-scientific-skills"]
+	path = skills/K-Dense-AI-claude-scientific-skills
+	url = https://github.com/K-Dense-AI/claude-scientific-skills.git
+[submodule "skills/jaechang-hits-scicraft"]
+	path = skills/jaechang-hits-scicraft
+	url = https://github.com/jaechang-hits/scicraft.git
+[submodule "skills/K-Dense-AI-claude-scientific-writer"]
+	path = skills/K-Dense-AI-claude-scientific-writer
+	url = https://github.com/K-Dense-AI/claude-scientific-writer.git
+[submodule "skills/HughYau-AcademicForge"]
+	path = skills/HughYau-AcademicForge
+	url = https://github.com/HughYau/AcademicForge.git
+[submodule "skills/yorkeccak-scientific-skills"]
+	path = skills/yorkeccak-scientific-skills
+	url = https://github.com/yorkeccak/scientific-skills.git
+[submodule "skills/Weizhena-Deep-Research-skills"]
+	path = skills/Weizhena-Deep-Research-skills
+	url = https://github.com/Weizhena/Deep-Research-skills.git
+[submodule "skills/HughYau-neuroforge-skills"]
+	path = skills/HughYau-neuroforge-skills
+	url = https://github.com/HughYau/neuroforge-skills.git
+[submodule "skills/HaoxuanLiTHUAI-awesome_cognitive_and_neuroscience_skills"]
+	path = skills/HaoxuanLiTHUAI-awesome_cognitive_and_neuroscience_skills
+	url = https://github.com/HaoxuanLiTHUAI/awesome_cognitive_and_neuroscience_skills.git
+[submodule "skills/K-Dense-AI-claude-skills-mcp"]
+	path = skills/K-Dense-AI-claude-skills-mcp
+	url = https://github.com/K-Dense-AI/claude-skills-mcp.git

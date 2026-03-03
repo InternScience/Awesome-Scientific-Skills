@@ -156,7 +156,7 @@ your-project/
 
 ```bash
 # Coming soon — once we consolidate skills into this repo
-git clone https://github.com/YourOrg/Awesome-Scientific-Skills.git
+git clone https://github.com/InternScience/Awesome-Scientific-Skills.git
 cp -r Awesome-Scientific-Skills/skills/ your-project/.claude/skills/
 ```
 

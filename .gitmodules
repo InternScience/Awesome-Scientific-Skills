@@ -58,3 +58,27 @@
 [submodule "skills/K-Dense-AI-claude-skills-mcp"]
 	path = skills/K-Dense-AI-claude-skills-mcp
 	url = https://github.com/K-Dense-AI/claude-skills-mcp.git
+[submodule "skills/coreyhaines31-marketingskills"]
+	path = skills/coreyhaines31-marketingskills
+	url = https://github.com/coreyhaines31/marketingskills.git
+[submodule "skills/agentskills-agentskills"]
+	path = skills/agentskills-agentskills
+	url = https://github.com/agentskills/agentskills.git
+[submodule "skills/kepano-obsidian-skills"]
+	path = skills/kepano-obsidian-skills
+	url = https://github.com/kepano/obsidian-skills.git
+[submodule "skills/muratcankoylan-Agent-Skills-for-Context-Engineering"]
+	path = skills/muratcankoylan-Agent-Skills-for-Context-Engineering
+	url = https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering.git
+[submodule "skills/OthmanAdi-planning-with-files"]
+	path = skills/OthmanAdi-planning-with-files
+	url = https://github.com/OthmanAdi/planning-with-files.git
+[submodule "skills/sickn33-antigravity-awesome-skills"]
+	path = skills/sickn33-antigravity-awesome-skills
+	url = https://github.com/sickn33/antigravity-awesome-skills.git
+[submodule "skills/hesreallyhim-awesome-claude-code"]
+	path = skills/hesreallyhim-awesome-claude-code
+	url = https://github.com/hesreallyhim/awesome-claude-code.git
+[submodule "skills/affaan-m-everything-claude-code"]
+	path = skills/affaan-m-everything-claude-code
+	url = https://github.com/affaan-m/everything-claude-code.git

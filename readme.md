@@ -66,6 +66,14 @@ We draw from two tiers of upstream repositories:
 | [obra/superpowers/skills](https://github.com/obra/superpowers/tree/main/skills) | 68K+ | Opinionated "superpowers" skill set for power users |
 | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | 21K+ | Vercel Labs' experimental agent skill toolkit |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 36K+ | UI/UX focused skill for high-fidelity frontend generation |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 11K+ | Marketing-oriented agent skills for CRO, copywriting, SEO, analytics, and growth workflows |
+| [agentskills/agentskills](https://github.com/agentskills/agentskills) | 12K+ | Official specification and documentation for the open Agent Skills standard |
+| [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 12K+ | Agent skills for Obsidian workflows (Markdown, Bases, JSON Canvas, and CLI integration) |
+| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 13K+ | Comprehensive skill collection for context engineering and production multi-agent systems |
+| [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 15K+ | Persistent markdown planning workflow skill for Claude Code |
+| [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 20K+ | Large cross-agent collection (900+ skills) for Claude Code, Antigravity, and Cursor |
+| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 26K+ | Curated ecosystem list for Claude Code: skills, hooks, commands, apps, and plugins |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 60K+ | Broad Claude Code ecosystem toolkit focused on performance, security, memory, and research workflows |
 
 ### Science-Specific
 

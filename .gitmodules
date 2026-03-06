@@ -82,3 +82,9 @@
 [submodule "skills/affaan-m-everything-claude-code"]
 	path = skills/affaan-m-everything-claude-code
 	url = https://github.com/affaan-m/everything-claude-code.git
+[submodule "skills/InternScience-scp"]
+	path = skills/InternScience-scp
+	url = https://github.com/InternScience/scp.git
+[submodule "skills/ynulihao-AgentSkillOS"]
+	path = skills/ynulihao-AgentSkillOS
+	url = https://github.com/ynulihao/AgentSkillOS.git

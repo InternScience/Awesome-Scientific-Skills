@@ -3,8 +3,12 @@
 # Awesome Scientific Skills
 
 **An open, curated collection of Agent Skills for scientific research — clone it, use it, extend it.**
+**中文说明 / Chinese README:** [readme_CN.md](readme_CN.md)
+
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)  ![Skills](https://img.shields.io/badge/skills-curated-blue?style=flat-square)  ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)  ![Last Commit](https://img.shields.io/github/last-commit/InternScience/Awesome-Scientific-Skills?style=flat-square)
+<a href="fig.jpg"><img src="fig.jpg" alt="Awesome Scientific Skills figure" width="920" /></a>
+
 
 ⭐ **Star us on GitHub! Your support means the world to us!** 🙏😊
 
@@ -16,7 +20,7 @@
 
 ## The Problem
 
-Thousands of Agent Skills are scattered across official registries and community repos. A researcher who needs to run a gene ontology enrichment, draft a grant proposal, and plot dose-response curves shouldn't have to dig through 13,000+ entries to find the right three skills. And once found, they shouldn't have to wire them together from scratch.
+Thousands of Agent Skills are scattered across official registries and community repos. A researcher who needs to run a gene ontology enrichment, draft a grant proposal, and plot dose-response curves shouldn't have to dig through 30,000+ entries to find the right three skills. And once found, they shouldn't have to wire them together from scratch.
 
 ## The Goal
 
@@ -36,7 +40,6 @@ Build a **single, clone-ready repository** of high-quality skills selected and o
 |---|---|
 | **Science-first curation** | Every skill is evaluated for relevance to real research workflows — not marketing demos |
 | **Fully clonable** | `git clone` once, get a working skill library — no account, no registry, no API key |
-| **Composable** | Skills are selected with combination in mind: literature search → data retrieval → analysis → writing |
 | **Cross-agent compatible** | Works with Claude Code, Cursor, Codex, Gemini CLI, and any agent supporting the open [Agent Skills](https://agentskills.io) standard |
 | **Open & auditable** | Every skill's source is public. Review before you run |
 
@@ -259,3 +262,4 @@ This curated list is released under [MIT](LICENSE). Individual skills retain the
 **If this saves you time in your research, give it a star and share it with your lab.**
 
 </div>
+

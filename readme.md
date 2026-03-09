@@ -4,7 +4,7 @@
 
 **An open, curated collection of Agent Skills for scientific research — clone it, use it, extend it.**
 **中文说明 / Chinese README:** [readme_CN.md](readme_CN.md)
-**Companion Tools:** [Skiller](https://github.com/qishisuren123/skiller.git) ? [skill-metric](https://github.com/ddd9898/skill-metric)
+**Companion Tools:** [Skiller](https://github.com/qishisuren123/skiller.git)   [skill-metric](https://github.com/ddd9898/skill-metric)
 
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)  ![Skills](https://img.shields.io/badge/skills-curated-blue?style=flat-square)  ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)  ![Last Commit](https://img.shields.io/github/last-commit/InternScience/Awesome-Scientific-Skills?style=flat-square)

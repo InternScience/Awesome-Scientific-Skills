@@ -4,6 +4,7 @@
 
 **An open, curated collection of Agent Skills for scientific research — clone it, use it, extend it.**
 **中文说明 / Chinese README:** [readme_CN.md](readme_CN.md)
+**Companion Tools:** [Skiller](https://github.com/qishisuren123/skiller.git) ? [skill-metric](https://github.com/ddd9898/skill-metric)
 
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)  ![Skills](https://img.shields.io/badge/skills-curated-blue?style=flat-square)  ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)  ![Last Commit](https://img.shields.io/github/last-commit/InternScience/Awesome-Scientific-Skills?style=flat-square)
@@ -244,10 +245,14 @@ Contributions are welcome. This is a curated list — quality over quantity.
 
 ## Related Projects
 
+Companion open-source tools from our team for skill generation and repository evaluation:
+
 | Project | Description |
 |---|---|
 | [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) | Deep research + scientific writing tool with real-time literature search and verified citations |
 | [K-Dense-AI/claude-skills-mcp](https://github.com/K-Dense-AI/claude-skills-mcp) | MCP server for vector-search-based skill retrieval |
+| [qishisuren123/skiller](https://github.com/qishisuren123/skiller.git) | Skiller - an automated skill generation tool that turns conversation logs or plain-text requirements into standards-compliant skill packages in one shot; validated under a full static-evaluation rubric and improves by 57 percentage points over the no-skill baseline |
+| [ddd9898/skill-metric](https://github.com/ddd9898/skill-metric) | A skills evaluation framework that screens high-quality skill repositories across three dimensions and provides structured metrics for skill quality assessment |
 | [agentskills.io](https://agentskills.io) | The open Agent Skills specification |
 
 ---

@@ -9,6 +9,7 @@
 
 
 **English README:** [readme.md](readme.md)
+**配套工具** [Skiller](https://github.com/qishisuren123/skiller.git) ? [skill-metric](https://github.com/ddd9898/skill-metric)
 
 ⭐ **如果这个仓库对你有帮助，欢迎点个 Star！**
 
@@ -245,10 +246,14 @@ cp -r Awesome-Scientific-Skills/skills/ your-project/.claude/skills/
 
 ## 相关项目
 
+这里也收录我们配套开源的 skill 生成与评测工具：
+
 | 项目 | 说明 |
 |---|---|
 | [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) | 带实时文献检索与可验证引用的 deep research + scientific writing 工具 |
 | [K-Dense-AI/claude-skills-mcp](https://github.com/K-Dense-AI/claude-skills-mcp) | 基于向量搜索的 skill retrieval MCP server |
+| [qishisuren123/skiller](https://github.com/qishisuren123/skiller.git) | Skiller —— 自动化 Skill 生成工具，支持从对话记录或纯文本需求一键生成符合规范的 skill 包；在静态评估满分评分标准下验证，相比无技能 baseline 提升 57 个百分点 |
+| [ddd9898/skill-metric](https://github.com/ddd9898/skill-metric) | skills 评价指标与仓库筛选工具，从三个维度严选优质 skills repo，并提供结构化质量评测指标 |
 | [agentskills.io](https://agentskills.io) | 开放 Agent Skills 标准 |
 
 ---

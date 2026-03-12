@@ -4,13 +4,15 @@
 
 **一个面向科学研究的开放式精选 Agent Skills 集合——可 clone、可直接使用、可持续扩展。**
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)  ![Skills](https://img.shields.io/badge/skills-curated-blue?style=flat-square)  ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)  ![Last Commit](https://img.shields.io/github/last-commit/InternScience/Awesome-Scientific-Skills?style=flat-square)
-<a href="fig.jpg"><img src="fig.jpg" alt="Awesome Scientific Skills figure" width="920" /></a>
-
-
 **English README:** [readme.md](readme.md)
 
-**配套工具** [Skiller](https://github.com/qishisuren123/skiller.git)   [skill-metric](https://github.com/ddd9898/skill-metric)
+### **最新新闻**
+
+- 我们开源了 [Skiller](https://github.com/qishisuren123/skiller.git) —— 自动化 Skill 生成工具，支持从对话记录或纯文本需求一键生成符合规范的 skill 包。
+- 我们发布了 [skill-metric](https://github.com/ddd9898/skill-metric) —— skills 评价框架，从三个维度严选优质 skills repo，对本仓库的skills的评价可以在/skills-metric里面找到。
+
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)  ![Skills](https://img.shields.io/badge/skills-curated-blue?style=flat-square)  ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)  ![Last Commit](https://img.shields.io/github/last-commit/InternScience/Awesome-Scientific-Skills?style=flat-square)
+<a href="fig.jpg"><img src="fig.jpg" alt="Awesome Scientific Skills figure" width="920" /></a>
 
 ⭐ **如果这个仓库对你有帮助，欢迎点个 Star！**
 

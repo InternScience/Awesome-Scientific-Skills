@@ -106,6 +106,7 @@ We draw from two tiers of upstream repositories:
 
 | Repository | Stars | Description |
 |---|---|---|
+| [WildDataX/suppr-skills](https://github.com/WildDataX/suppr-skills) | Claude Code skills for literature search and document translation workflows through the Suppr APIs |
 | [yorkeccak/scientific-skills](https://github.com/yorkeccak/scientific-skills) | 21 | Natural-language scientific literature search skills with semantic retrieval across PubMed, arXiv, ChEMBL, DrugBank, and more |
 | [Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) | 90 | Structured deep-research workflow skill (outline + investigation) with human-in-the-loop control for academic, technical, and market research |
 

@@ -106,6 +106,7 @@ We draw from two tiers of upstream repositories:
 
 | Repository | Stars | Description |
 |---|---|---|
+| [Intelligent-Internet/II-Commons-Skills](https://github.com/Intelligent-Internet/II-Commons-Skills) | 2 | Fast, daily-updated skill and CLI for deterministic retrieval across arXiv, PubMed/PMC, and supported US policy corpora |
 | [yorkeccak/scientific-skills](https://github.com/yorkeccak/scientific-skills) | 21 | Natural-language scientific literature search skills with semantic retrieval across PubMed, arXiv, ChEMBL, DrugBank, and more |
 | [Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) | 90 | Structured deep-research workflow skill (outline + investigation) with human-in-the-loop control for academic, technical, and market research |
 
@@ -272,4 +273,3 @@ This curated list is released under [MIT](LICENSE). Individual skills retain the
 **If this saves you time in your research, give it a star and share it with your lab.**
 
 </div>
-

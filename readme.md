@@ -94,6 +94,7 @@ We draw from two tiers of upstream repositories:
 |---|---|---|
 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 11.5K+ | **148+ scientific skills** covering 250+ databases (PubMed, ChEMBL, UniProt, COSMIC, ClinicalTrials.gov, SEC EDGAR, etc.) - a broad foundation for this project's science tier |
 | [jaechang-hits/scicraft](https://github.com/jaechang-hits/scicraft) | 17 | **140 validated life-science computational skills** for AI coding agents, with CI-validated structure and workflow-oriented references |
+| [KevinSpringer1/conserved-primer-design](https://github.com/KevinSpringer1/conserved-primer-design) | 0 | Agent skill package for calling the VirusPrimerPro website API to run conserved primer, PhyloGuide, and tNGS amplicon panel workflows, with API helpers, NCBI/MAFFT preparation, taxonomy/reference curation, specificity screening, primer QC, panel pooling, and validation reports |
 
 #### Academic Writing
 

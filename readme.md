@@ -250,6 +250,7 @@ Contributions are welcome. This is a curated list — quality over quantity.
 ---
 
 ## Related Projects
+- **[REFUTE](https://bgpt.pro/refute)** — Offline scientific critique & epistemic calibration benchmark (judge-free). Useful when agent skills need a honesty/calibration check, not just task completion. [Dataset](https://huggingface.co/datasets/BGPT-OFFICIAL/refute)
 
 Companion open-source tools from our team for skill generation and repository evaluation:
 

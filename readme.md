@@ -108,6 +108,7 @@ We draw from two tiers of upstream repositories:
 | Repository | Stars | Description |
 |---|---|---|
 | [Intelligent-Internet/II-Commons-Skills](https://github.com/Intelligent-Internet/II-Commons-Skills) | 2 | Fast, daily-updated skill and CLI for deterministic retrieval across arXiv, PubMed/PMC, and supported US policy corpora |
+| [SandBase Multi-Source Search](https://github.com/sandbaseai/sandbase-skills/tree/main/research/multi-source-search) | 20 | Portable web and academic research skill with cross-source validation, confidence-scored findings, prompt-injection defenses, a bounded search budget, and an offline evidence-ledger validator; works with host search tools without a SandBase account |
 | [yorkeccak/scientific-skills](https://github.com/yorkeccak/scientific-skills) | 21 | Natural-language scientific literature search skills with semantic retrieval across PubMed, arXiv, ChEMBL, DrugBank, and more |
 | [Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) | 90 | Structured deep-research workflow skill (outline + investigation) with human-in-the-loop control for academic, technical, and market research |
 

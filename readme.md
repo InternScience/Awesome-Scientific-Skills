@@ -84,6 +84,7 @@ We draw from two tiers of upstream repositories:
 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 15K+ | Persistent markdown planning workflow skill for Claude Code |
 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 20K+ | Large cross-agent collection (900+ skills) for Claude Code, Antigravity, and Cursor |
 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 26K+ | Curated ecosystem list for Claude Code: skills, hooks, commands, apps, and plugins |
+| [linkedin](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin) | — | Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf. |
 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 60K+ | Broad Claude Code ecosystem toolkit focused on performance, security, memory, and research workflows |
 
 ### Science-Specific

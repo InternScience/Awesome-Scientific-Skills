@@ -2,6 +2,8 @@
 
 # Awesome Scientific Skills
 
+[![SafeSkill 92/100](https://img.shields.io/badge/SafeSkill-92%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/internscience-awesome-scientific-skills)
+
 **An open, curated collection of Agent Skills for scientific research — clone it, use it, extend it.**
 
 **中文说明 / Chinese README:** [readme_CN.md](readme_CN.md)

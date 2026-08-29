@@ -151,6 +151,12 @@ Below is the target taxonomy. Skills from the sources above are mapped into thes
 - [ ] **Reproducibility** — environment capture, notebook-to-pipeline conversion, data provenance tracking
 - [x] **Document Processing** — PDF extraction, DOCX/PPTX generation, LaTeX compilation
 
+#### Scientific Thinking & Methodology
+
+| Skill | Description |
+|---|---|
+| [falsify](https://github.com/263311487-ux/falsify) | A falsification-first scientific thinking protocol for AI agents: installs a 5-stage "falsify before you believe" reasoning loop so agents separate falsifiable claims from untestable ones, label uncertainty, and stop overconfident answers |
+
 ### Quantitative & Financial Research
 
 - [x] **Financial Data** — SEC EDGAR, Alpha Vantage, OFR Hedge Fund Monitor, Treasury fiscal data

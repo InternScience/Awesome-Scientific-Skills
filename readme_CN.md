@@ -148,6 +148,12 @@
 - [ ] **Reproducibility** — 环境快照、notebook 转 pipeline、数据溯源追踪
 - [x] **Document Processing** — PDF 提取、DOCX/PPTX 生成、LaTeX 编译
 
+#### 科学思维与方法论
+
+| 技能 | 说明 |
+|---|---|
+| [falsify](https://github.com/263311487-ux/falsify) | 面向 AI 智能体的「先证伪，再相信」科学思维协议：5 阶段推理回路，让智能体先区分可证伪与不可检验的断言、标注不确定性、停止过度自信的答案 |
+
 ### Quantitative & Financial Research
 
 - [x] **Financial Data** — SEC EDGAR、Alpha Vantage、OFR Hedge Fund Monitor、Treasury 财政数据

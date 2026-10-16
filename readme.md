@@ -102,6 +102,7 @@ We draw from two tiers of upstream repositories:
 | [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) | 937 | Deep research + scientific writing tool with real-time literature search and verified citations |
 | [HughYau/AcademicForge](https://github.com/HughYau/AcademicForge) | 250 | Curated skill collection for academic writing and research workflows (focused integration over broad skill quantity) |
 | [Agnuxo1/PaperClaw](https://github.com/Agnuxo1/PaperClaw) | 1 | Apache-licensed scientific paper generation workflow with IMRaD structure, local model support, LaTeX output, and optional Lean 4 blocks |
+| [mahmoudsajjadi/awesome-ai-research-tools](https://github.com/mahmoudsajjadi/awesome-ai-research-tools) | Curated | Curated catalog of AI tools for scientific literature discovery, citation graph mapping, LaTeX writing, and research reproducibility |
 
 #### Literature Search
 

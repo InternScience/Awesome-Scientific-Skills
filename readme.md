@@ -110,6 +110,7 @@ We draw from two tiers of upstream repositories:
 | [Intelligent-Internet/II-Commons-Skills](https://github.com/Intelligent-Internet/II-Commons-Skills) | 2 | Fast, daily-updated skill and CLI for deterministic retrieval across arXiv, PubMed/PMC, and supported US policy corpora |
 | [yorkeccak/scientific-skills](https://github.com/yorkeccak/scientific-skills) | 21 | Natural-language scientific literature search skills with semantic retrieval across PubMed, arXiv, ChEMBL, DrugBank, and more |
 | [Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) | 90 | Structured deep-research workflow skill (outline + investigation) with human-in-the-loop control for academic, technical, and market research |
+| [AutoResearch-Factory/Agon](https://github.com/AutoResearch-Factory/Agon) | 54 | Claude Code plugin for autonomous research across 10+ fields, with arXiv search, BibTeX, and novelty-check skills; all 18 roles fit in 230.6 KiB of prompts |
 
 #### Neuroscience
 

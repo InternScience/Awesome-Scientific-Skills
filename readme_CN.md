@@ -92,6 +92,7 @@
 |---|---|---|
 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 11.5K+ | **148+ scientific skills**，覆盖 250+ 数据库（PubMed、ChEMBL、UniProt、COSMIC、ClinicalTrials.gov、SEC EDGAR 等），是本项目科学技能层的重要基础 |
 | [jaechang-hits/scicraft](https://github.com/jaechang-hits/scicraft) | 17 | **140 个经过验证的生命科学计算 skills**，包含 CI 校验结构和工作流导向参考 |
+| [haoming-luo/agentfem](https://github.com/haoming-luo/agentfem/tree/main/skills/agentfem) | 35 | 有限元建模技能：创建、检查、运行 AgentFEM 项目并查看结果，附建模流程与数值验证参考。需另行安装开源 AgentFEM/FEniCSx 计算环境 |
 
 #### 学术写作
 

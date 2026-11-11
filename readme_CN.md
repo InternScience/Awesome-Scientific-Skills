@@ -92,6 +92,7 @@
 |---|---|---|
 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 11.5K+ | **148+ scientific skills**，覆盖 250+ 数据库（PubMed、ChEMBL、UniProt、COSMIC、ClinicalTrials.gov、SEC EDGAR 等），是本项目科学技能层的重要基础 |
 | [jaechang-hits/scicraft](https://github.com/jaechang-hits/scicraft) | 17 | **140 个经过验证的生命科学计算 skills**，包含 CI 校验结构和工作流导向参考 |
+| [wangze1998/molecule-design-loop](https://github.com/wangze1998/molecule-design-loop) | 6 | 约束驱动的小分子与聚合物设计循环：基于 Zotero 文献、RDKit 过滤、候选结构可视化审查，xTB 计算前须人工批准 |
 
 #### 学术写作
 
